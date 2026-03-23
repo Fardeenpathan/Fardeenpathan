@@ -37,3 +37,44 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
 ---
 
 ## 🚀 Projects
+
+### 🔹 Tetrahedron (Skill Training Website)
+- Built using **Next.js**
+- Developed a modern and responsive UI for skill-based learning platform
+- Focused on performance optimization and user experience
+
+### 🔹 Infogentech (Tech Website)
+- Developed using **Next.js**
+- Designed and implemented a professional business website
+- Optimized for SEO and fast loading speed
+
+### 🔹 Book Store (MERN Stack)
+- Full-stack web application using **MongoDB, Express, React, Node.js**
+- Implemented product listing, cart functionality, and user interactions
+- Designed responsive UI for better user engagement
+
+---
+
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=Fardeenpathan&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Fardeenpathan&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/md-fardeen-a7a660230/
+- 📧 Email: md.fardeen5236@gmail.com
+
+---
+
+## 🏆 Career Goal
+
+To build scalable, high-quality web applications and grow as a top-level Full Stack Developer while contributing to impactful projects.
+
+---
+
+⭐️ *Focused on building real-world applications and continuously improving skills.*
+
