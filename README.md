@@ -55,9 +55,6 @@ I am a passionate Full Stack Developer with hands-on experience in building scal
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=Fardeenpathan&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
-
 ## 🔥 GitHub Streak
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Fardeenpathan&theme=tokyonight)
 
